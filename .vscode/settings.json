@@ -1,0 +1,7 @@
+{
+    "tabnine.codeLensEnabled": false,
+    "python.analysis.autoImportCompletions": true,
+    "python.createEnvironment.contentButton": "show",
+    "python.globalModuleInstallation": false,
+    "python.terminal.focusAfterLaunch": true
+}
